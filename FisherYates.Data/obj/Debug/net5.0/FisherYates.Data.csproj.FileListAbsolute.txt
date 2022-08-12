@@ -1,0 +1,12 @@
+C:\Users\lawre\source\skedda-technical-challenge\FisherYates\FisherYates.Data\bin\Debug\net5.0\FisherYates.Data.deps.json
+C:\Users\lawre\source\skedda-technical-challenge\FisherYates\FisherYates.Data\bin\Debug\net5.0\FisherYates.Data.dll
+C:\Users\lawre\source\skedda-technical-challenge\FisherYates\FisherYates.Data\bin\Debug\net5.0\ref\FisherYates.Data.dll
+C:\Users\lawre\source\skedda-technical-challenge\FisherYates\FisherYates.Data\bin\Debug\net5.0\FisherYates.Data.pdb
+C:\Users\lawre\source\skedda-technical-challenge\FisherYates\FisherYates.Data\obj\Debug\net5.0\FisherYates.Data.csproj.AssemblyReference.cache
+C:\Users\lawre\source\skedda-technical-challenge\FisherYates\FisherYates.Data\obj\Debug\net5.0\FisherYates.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lawre\source\skedda-technical-challenge\FisherYates\FisherYates.Data\obj\Debug\net5.0\FisherYates.Data.AssemblyInfoInputs.cache
+C:\Users\lawre\source\skedda-technical-challenge\FisherYates\FisherYates.Data\obj\Debug\net5.0\FisherYates.Data.AssemblyInfo.cs
+C:\Users\lawre\source\skedda-technical-challenge\FisherYates\FisherYates.Data\obj\Debug\net5.0\FisherYates.Data.csproj.CoreCompileInputs.cache
+C:\Users\lawre\source\skedda-technical-challenge\FisherYates\FisherYates.Data\obj\Debug\net5.0\FisherYates.Data.dll
+C:\Users\lawre\source\skedda-technical-challenge\FisherYates\FisherYates.Data\obj\Debug\net5.0\ref\FisherYates.Data.dll
+C:\Users\lawre\source\skedda-technical-challenge\FisherYates\FisherYates.Data\obj\Debug\net5.0\FisherYates.Data.pdb
