@@ -1,4 +1,5 @@
 # Fisher Yates Algorithm
+See the [full spec](https://github.com/LousyLeonard/fisher-yates/blob/master/FULL-SPEC.md).
 
 ## *Fisher-Yates*
 
