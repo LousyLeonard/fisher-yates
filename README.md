@@ -1,6 +1,6 @@
 # Fisher Yates Algorithm
 
-## Task 2: *Fisher-Yates*
+## *Fisher-Yates*
 
 I spent a bit longer than I wanted to on this. 
 This was because I got a bit carried away - I found the problem very interesting.
